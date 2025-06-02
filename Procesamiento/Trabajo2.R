@@ -14,7 +14,7 @@ pacman::p_load(dplyr,
                GGally, 
                corrplot,
                car,
-               sumarytools,
+               summarytools,
                psych, 
                haven)
 
